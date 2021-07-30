@@ -1,0 +1,114 @@
+接下来，请允许我向您汇报SPP CN紧后开展的工作内容，主要包括本年度下半年第三、四季度的。
+Next, let me report back to you on what SPP CN will do soon, mainly in the third and fourth quarters of the year.
+
+第一项工作。关于EKS的升级工作，会包含三个子工作。
+The first task. For EKS upgrades, there are three sub-jobs.
+
+第一点是Backend节点会创建一个新的ASG进行集中管理和控制；
+The first job is that Backend nodes create a new ASG for centralized management and control;
+
+第二点是Frondend节点会将非ASG节点变更为ASG节点；
+The second job is that Frondend non-ASG nodes to change into ASG nodes.
+
+第三点是EKS 1.18版本升级为1.20版本，整个工作会优先通过测试验证可行性，并通过WIKI记录整个过程。
+The third job is that the EKS 1.18 version is upgraded to the 1.20 version, and the entire work is prioritized by testing to verify feasibility and documenting the entire process through WIKI.
+
+我会与您同步我们工作的进度。
+I will synchronize the progress of our work with you.
+
+预计8月30日可以完成测试。
+Tests are expected to be completed by August 30.
+
+预计9月内会提出生产环境的变更申请。
+Applications for changes to the production environment are expected in September.
+
+请问你疑问吗？
+Do you have any questions?
+
+好的，我记下了，请允许我继续汇报。
+All right, I got it. Let me keep reporting.
+
+
+第二项工作。关于Container Insight的调研工作。
+The second task. Research on Container Insight.
+
+我们目前是通过Container Insight与Prometheus进行比较并完成面向你的汇报工作。
+We are currently comparing and reporting to you through Container Insight and Prometheus.
+
+后续会进行Niffler的深入学习。
+An in-depth study of Niffler will be conducted at a subsequent session.
+
+包括系统构建、配置、性能验证和使用体验。
+Includes system build, configuration, performance validation, and usage experience.
+
+最后，再将Container Insight与Niffler进行比较并完成报告，向你汇报。
+Finally, compare Container Insight with Niffler and report back to you.
+
+按目前的工作情况推算，我们预计9月30日前可以完成。
+Based on current working conditions, we expect it to be completed by September 30.
+
+第三项工作，关于公有云安全审计。
+The third task, on Cloud Security Audits.
+
+目前我们在Cloud Security Platform能够了解到，本次安全审计工作共85个工作包。
+At present, we can understand in Cloud Security Platform, this security audit work a total of 85 packages.
+
+其中58个工作包需要根据审计要求完成调整，目前已完成19个工作包。
+Of these, 58 packages were subject to adjustments as required by the audit and 19 were currently completed.
+
+剩余的29个预计8月30日完成。
+The remaining 29 are expected to be completed by 30 August.
+
+第四项工作，关于AWS IAM。
+The fourth task, on AWS IAM.
+
+我们发现自从使用IPA之后，会产生一个SPP_SYS用户帐号多人使用的情况，容易造成CloudTrail功能失效。
+We found that since the use of IPA, will produce a SPP_SYS user account multi-user situation, easy to cause CloudTrail function failure.
+
+我们要研究一套安全方案，加强成员对于生产环境的访问。
+We will study a set of safety schemes to enhance members access to the PRD environment.
+
+减少执行错误操作的风险并进一步保障生产环境的安全和稳定。
+Reduce the risk of error and further ensure the safety and stability of the production environment.
+
+目前的构思是减少成员的帐户权限。
+The current idea is to reduce member account permissions.
+
+当只有获得批准才允许使用管理员帐户的Access Key和Security Key。
+Use of the Access Key and Security Key of the administrator account is allowed only with approval.
+
+临时使用管理员权限执行变更工作。
+Temporary use of administrator permissions to perform change work.
+
+具体内容仍在设计当中。
+Details are still being designed.
+
+预计11月30日会产生第一个版本的方案。
+A first version of the programme is expected on 30 November.
+
+届时再进一步向你介绍。
+I will introduce you further.
+
+另外，未来我们还会计划针对Terrowform的功能，进行加强使用的训练。
+In addition, in the future we will plan for Terrowform functionality, enhanced use of training.
+
+对于EKS所使用的Images数据，会进一步针对CICD流程进行调整构建和部署方案，完善版本管理和信息维护。
+The Images data used by EKS will be further adapted to the CICD process to build and deploy solutions, improve version management and information maintenance.
+
+对于Cost saving工作，我们会根据实际情况，进一步优化。
+For Cost saving work, we will further optimize it according to the actual situation.
+
+在第四季度，我们还会计划加入Istio的研究工作。
+In the fourth quarter, we will also plan to join the Istio research work.
+
+以上就是SPP CN本次的全部工作汇报内容。
+Above is SPP CN this entire work report content.
+
+Paik先生，你是否同样有信息需要同步给我们的呢？
+Mr.Paik, do you also have information that needs to be synchronized to us?
+
+好的，我大致明白了，我们想这个会议已经耽误了您挺多的工作时间了，我们线下再进行沟通，如何？
+Ok, I get it. We think this meeting has delayed your working time a lot. How about we communicate offline?
+
+多谢Paik先生，那这次的会议结束，谢谢Mr.Paik，谢谢。
+Thank you, Mr. Paik. That meeting is over. Thank you. Mr.Paik thank you.
