@@ -1,0 +1,122 @@
+Hello Mr. Paik, I am SPP CN Haowen Deng. I am glad that you can find time with your busy schedule to listen to our work report.
+
+Due to time constraints and busy schedules, we were not in contact with you directly through voice or chat and the team would like to address this concern.
+
+In addition, there are recent changes and adjustments in team management based on human resources management and we are in need of relevant information for us to synchronize with you and keep you updated about the latest SPP CN members.
+
+Before we start, let me briefly introduce our SPP CN members.
+
+Our PM, Hugo Cao.
+TA members Yingdong Yang, Jingyue Su, Yingju Cheng.
+DBA members Zhen Zhang, Zhuoxin Yang.
+
+Hydsoft decided to authorize me to oversee SPP team, and I have replaced Xin Chen to work moving forward as a TL.
+
+Rest assured that I'll do my TL task to the best of my ability to ensure business stability.
+
+Mr. Paik, that is the latest status of SPP CN members.
+
+Mr. Paik, do you have any questions?
+
+If there's no questions then let's move on to the next one.
+
+(I've already took notes of what you've said and you'll receive a formal reply after I check and confirm online once the meeting is dismissed. )
+
+
+
+
+
+
+ 
+Next, let me talk about the third and fourth quarters of the year.
+
+First task. There are three sub-jobs after EKS upgrade.
+ 
+The first job is that Backend nodes create a new ASG for centralized management and control. This job has been completed.
+
+Next one.
+ 
+The second job is that Frondend non-ASG nodes to change into ASG nodes.
+ 
+The third job is that the EKS 1.18 version is upgraded to the 1.20 version, and the entire work is prioritized by testing to verify feasibility and documenting the entire process through SPP CN WIKI.
+ 
+Let me synchronize the progress of our work with you.
+ 
+Tests are expected to be completed by August 30.
+ 
+Applications for changes to the production environment are expected in September.
+ 
+Do you have any questions?
+ 
+(All right, I got it. Let me keep reporting.)
+
+
+
+ 
+OK. The second task is research on Container Insight.
+
+We are currently comparing and reporting to you through Container Insight and Prometheus.
+ 
+An in-depth study of Niffler will be conducted at a subsequent session.
+ 
+Includes system build, configuration, performance validation, and usage experience.
+ 
+Finally, compare Container Insight with Niffler and report back to you.
+ 
+Based on current working conditions, we expect it to be completed by October 30.
+
+
+
+
+The third task, on Cloud Security Audits.
+ 
+At present, we can understand in Cloud Security Platform, this security audit work a total of 85 packages.
+ 
+Of these, 58 packages were subject to adjustments as required by the audit and 19 were currently completed.
+ 
+The remaining 29 are expected to be completed by September 30.
+
+
+
+
+
+The fourth task, on AWS IAM.
+ 
+We found the risk that the use of IPA will use a OS user account shared to multi-user situation like easy to cause CloudTrail function or another audit function failure.
+ 
+We will study a set of safety schemes to enhance members access to the PRD environment.
+ 
+Reduce the risk of error and further ensure the safety and stability of the production environment.
+ 
+The current idea is to reduce member account permissions.
+ 
+Use of the Access Key and Security Key of the administrator account is allowed only with approval.
+ 
+Temporary use of administrator permissions to perform change work.
+ 
+Details are still being designed.
+ 
+A first version of the programme is expected on 30 November.
+
+
+
+
+
+I will introduce you further.
+ 
+In addition, in the future we will plan for Terrowform functionality, enhanced use of training.
+ 
+The Images data used by EKS will be further adapted to the CICD process to build and deploy solutions, improve version management and information maintenance.
+ 
+For Cost saving work, we will further optimize it according to the actual situation.
+ 
+In the fourth quarter, we will also plan to join the Istio research work.
+ 
+Above is SPP CN entire work report content.
+ 
+Mr.Paik, do you also have information that needs to be synchronized with us?
+
+Ok, I get it. We think this meeting has delayed your working time a lot. Let's communicate offline since we don't want to waste your time further.
+ 
+Thank you, Mr. Paik. That meeting is over. Thank you. Mr.Paik thank you.
+
