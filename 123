@@ -22,7 +22,7 @@ If there's no questions then let's move on to the next one.
 
 (I've already took notes of what you've said and you'll receive a formal reply after I check and confirm online once the meeting is dismissed. )
 
-
+(She is the new members, she join us at July 29.)
 
 
 
@@ -32,22 +32,26 @@ Next, let me talk about the third and fourth quarters of the year.
 
 First task. There are three sub-jobs after EKS upgrade.
  
-The first job is that Backend nodes create a new ASG for centralized management and control. This job has been completed on last week.
-
-Next one.
+The first job is that Backend nodes create a new ASG for centralized management and control. 
  
-The second job is that Frondend non-ASG nodes to change into ASG nodes.
+The second job is that Frondend non-ASG worker nodes to change into ASG worker nodes.
  
 The third job is that the EKS 1.18 version is upgraded to the 1.20, and the entire work is prioritized by testing to verify feasibility and documenting the entire process through SPP CN WIKI.
  
 Let me synchronize the progress of our work with you.
  
-Tests are expected to be completed by August 30.
+EKS upgrade testing are expected to be completed by August 30.
  
-Applications for changes to the production environment are expected in September.
+Applications for changes to the PRD environment are expected in September.
 
+(OK, I have recorded your questions. If there are anything questions, I suggest to continue offline after the meeting to discuss, should we?)
 
+...
 
+(Thank you.)
+ 
+ 
+ 
  
 The second task is research on Container Insight.
 
@@ -65,15 +69,21 @@ Mr. Paik, do you have any questions?
 
 (All right, I got it. Could me keep reporting?)
 
+...
+
+(Thank you. )
 
 
-Thank you. The third task, on Cloud Security Audits.
+
+
+
+The third task, on Cloud Security Audits.
  
 At present, we can understand in Cloud Security Platform, this security audit work a total of 85 packages.
  
 Of these, 50 packages were subject to adjustments as required by the audit.
 
-Contains 23 were currently completed and 27 not required to be implemented.
+Contains 23 green items were currently completed and 27 gray items not required to be implemented.
  
 The remaining 35 are expected to be completed by September 30.
 
@@ -87,7 +97,7 @@ We found the risk that the use of IPA will use a OS user account shared to multi
  
 We will study a set of safety schemes to enhance members access to the PRD environment.
  
-Reduce the risk of error and further ensure the safety and stability of the production environment.
+Reduce the risk of error and further ensure the safety and stability of the PRD environment.
  
 The current idea is to reduce member account permissions.
  
@@ -97,7 +107,7 @@ Temporary use of administrator permissions to perform change work.
  
 Details are still being designed.
  
-A first version of the programme is expected on 30 November.
+A first version of the programme is expected on November 30.
 
 (I have no better idea at this moment. Should we discuss it after the meeting?)
 
