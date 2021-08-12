@@ -6,11 +6,11 @@ In addition, there are recent changes and adjustments in team management based o
 
 Before we start, let me briefly introduce our SPP CN members.
 
-Our PM, Hugo Cao.
-TA members Dongying Yang, Jingyue Su, Yingju Cheng.
-DBA members Zhen Zhang, Zhuoxin Yang.
+Our PMs, Yun Wei, and Hugo Cao.
+TA members Dongying Yang, Jingyue Su, and Yingju Cheng.
+DBA members Zhen Zhang, and Zhuoxin Yang.
 
-Hydsoft decided to authorize me to oversee SPP CN team, and I have replaced Xin Chen to work moving forward as a TL.
+Hydsoft company decided to authorize me to oversee SPP CN team, and I have replaced Xin Chen to work moving forward as a TL.
 
 Rest assured that I'll do my TL task to the best of my ability to ensure business stability.
 
@@ -32,7 +32,7 @@ Next, let me talk about the third and fourth quarters of the year.
 
 First task. There are three sub-jobs after EKS upgrade.
  
-The first job is that Backend nodes create a new ASG for centralized management and control. 
+The first job is that Backend nodes create a new ASG for centralized management and control. This job has been completed last week, and the corresponding guidance documents have been output as records.
  
 The second job is that Frondend non-ASG worker nodes to change into ASG worker nodes.
  
@@ -44,7 +44,9 @@ EKS upgrade testing are expected to be completed by August 30.
  
 Applications for changes to the PRD environment are expected in September.
 
-(OK, I have recorded your questions. If there are anything questions, I suggest to continue offline after the meeting to discuss, should we?)
+Mr. Paik, do you have any questions?
+
+(All right, I got it. Could me keep reporting?)
 
 ...
 
@@ -67,11 +69,11 @@ Based on current working conditions, we expect it to be completed by October 30.
 
 Mr. Paik, do you have any questions?
 
-(All right, I got it. Could me keep reporting?)
+(OK, I have recorded your questions. If there are anything questions, I suggest to continue offline after the meeting to discuss, Because the central air conditioning in the room is very heavy, I feel a little uncomfortable. So, I want to end the voice reporting ASAP, could me?)
 
 ...
 
-(Thank you. )
+(Thank you very mush. )
 
 
 
@@ -126,9 +128,11 @@ In the fourth quarter, we will also plan to join the Istio research work.
  
 Above is SPP CN entire work report content.
  
-Mr.Paik, do you also have information that needs to be synchronized with us?
+Mr.Paik, do you also have information that needs to be synchronized with me?
+About who should MGMT contact for testing, and does the ElastiCache need to purchase RI resources?
 
-(Ok, I get it. We think this meeting has delayed your working time a lot. Let's communicate offline since we don't want to waste your time further.)
- 
-Thank you, Mr. Paik. That meeting is over. Thank you. Mr.Paik thank you.
+(Ok, I get it. We think this meeting has delayed your working time a lot. Let's communicate offline since I don't want to waste your working time further.)
+(So, could the meeting end?)
+
+Thank you, Mr. Paik. That meeting is over. Thank you. Mr.Paik , thank you for meeting.
 
